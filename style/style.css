@@ -46,3 +46,13 @@ a:hover {
 a:active {
   background-color: black;
 }
+
+.lorem {
+  background: linear-gradient(
+    to top left,
+    rgb(255, 63, 63),
+    rgb(104, 159, 104)
+  );
+  box-shadow: 0 0 50px black;
+  border-radius: 5%;
+}
